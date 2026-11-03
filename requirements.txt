@@ -1,0 +1,7 @@
+Flask
+APScheduler
+requests
+pandas
+numpy
+scikit-learn
+joblib

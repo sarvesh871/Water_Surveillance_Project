@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.venv/
+venv/
+env/
+
+# IDE / OS
+.DS_Store
+._*
+.idea/
+.vscode/
+*.swp
+
+# Temporary outputs
+*.tmp
+*.log
+
+# Keep existing water_data.csv project log by default.
+# If you do not want to publish collected readings, uncomment:
+# backend/water_data.csv

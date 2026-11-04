@@ -228,6 +228,6 @@ See [`docs/DATA_AND_MODEL_NOTES.md`](docs/DATA_AND_MODEL_NOTES.md) for additiona
 - Fegade Nikhil Vijay
 - Dorik Rupesh Girish
 - Dhande Sarvesh Gopal
-- Patil Laaghvi Ashok
+- Patil Laghvi Ashok
 
 Department of Computer Engineering, R. C. Patel Institute of Technology, Shirpur, Maharashtra, India.
